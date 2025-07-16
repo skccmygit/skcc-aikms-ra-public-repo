@@ -7,5 +7,10 @@ skccmygit의 리파지토리는 internal이기 때문에 README에 직접 이미
 
 <h3> Hello </h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skccmygit/skcc-aikms-ra-public-repo/refs/heads/main/ra-front-vue-ui-components/common-list.png" width="800"/>
+  <img src="./ra-front-vue-ui-components/common-list.png" />
+</p>
+
+<h3> Hello 2 </h3>
+<p align="center">
+  <img src="https://github.com/skccmygit/skcc-aikms-ra-public-repo/blob/main/ra-front-vue-ui-components/common-list.png" width="800"/>
 </p>
