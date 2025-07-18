@@ -10,7 +10,7 @@ skccmygit의 리파지토리는 internal이기 때문에 README에 직접 이미
 2. 해당 폴더에 본인의 리파지토리 들어있던 이미지 파일을 복업로드한다.
 3. 본인의 리파지토리 Readme 파일에 있던 이미지 링크를 다음과 같이 수정한다.
 
-- 변경전 : ```<img src="./common-list.png" width="400"/>```
+- 변경전 : ```<img src="./ra-front-vue-ui-components/common-list.png" width="400"/>```
   
 - 변경후 : ```<img src="https://raw.githubusercontent.com/skccmygit/skcc-aikms-ra-public-repo/refs/heads/main/ra-front-vue-ui-components/common-list.png" width="400"/>```
    
