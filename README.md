@@ -12,14 +12,14 @@ skccmygit의 리파지토리는 internal이기 때문에 README에 직접 이미
 
 - 변경전 : ```<img src="./common-list.png" width="400"/>```
   
-- 변경후 : ```<img src="https://github.com/skccmygit/skcc-aikms-ra-public-repo/blob/main/ra-front-vue-ui-components/common-list.png" width="400"/>```
+- 변경후 : ```<img src="https://raw.githubusercontent.com/skccmygit/skcc-aikms-ra-public-repo/refs/heads/main/ra-front-vue-ui-components/common-list.png" width="400"/>```
    
-* 위에서 보듯이 ```"https://github.com/skccmygit/skcc-aikms-ra-public-repo/blob/main" + "/폴더이름/이미지파일명"```과 같이 만들어 주는 게 핵심
+* 위에서 보듯이 ```"https://raw.githubusercontent.com/skccmygit/skcc-aikms-ra-public-repo/refs/heads/main" + "/폴더이름/이미지파일명"```과 같이 만들어 주는 게 핵심
 
 <hr />
 
 <h3> 예시 </h3>
 
 <p align="center">
-  <img src="https://github.com/skccmygit/skcc-aikms-ra-public-repo/blob/main/ra-front-vue-ui-components/common-list.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/skccmygit/skcc-aikms-ra-public-repo/refs/heads/main/ra-front-vue-ui-components/common-list.png" width="800"/>
 </p>
